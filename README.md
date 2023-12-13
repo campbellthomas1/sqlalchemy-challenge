@@ -4,4 +4,4 @@
 
 ## I designed a climate app after I was done with my climate analysis and data exploration. I designed a Flask API based on the queries that I developed, including a homepage, precipitation, stations, tobs, and start and end dates.
 
-##I did run into a few issues with getting the start and end dates to work but I will continue to work on that.
+## I did run into a few issues with getting the start and end dates to work but I will continue to work on that.
